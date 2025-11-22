@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Tama Traditional Song",
+    "artist": "Unknown",
+    "url": "https://raw.githubusercontent.com/yourusername/tama-audio/main/songs/song1.mp3",
+    "category": "Traditional"
+  },
+  {
+    "id": 2,
+    "title": "Tama Kids Song",
+    "artist": "Tama Artist",
+    "url": "https://raw.githubusercontent.com/yourusername/tama-audio/main/songs/song2.mp3",
+    "category": "Kids"
+  }
+]
+
