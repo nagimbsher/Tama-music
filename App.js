@@ -9,7 +9,7 @@ export default function App() {
 
   useEffect(() => {
     axios
-      .get("https://raw.githubusercontent.com/yourusername/tama-audio/main/songs.json")
+      .get("https://raw.githubusercontent.com/nagimbsher/Tama-music/main/songs.json")
       .then((res) => setSongs(res.data));
   }, []);
 
